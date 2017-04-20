@@ -1,4 +1,9 @@
 /*Text box CSS class for all the pages , 70%*/
+.form-control.input-md.newentry.partner_names{
+    width: 70%;
+    margin-left: -31%;
+
+
 .card-header{
 
      width: 59% !important;
@@ -223,7 +228,7 @@ width: 155%;
 
 /*add new partner*/
 .add_field_button.btn.partner_btn{
-	margin-left:235%;
+	margin-left:294%;
 }
 
 /*view btn*/
@@ -3140,6 +3145,19 @@ margin-top:-1%;
     height: 70%;
     margin-left: -30%;
 }
+.card-block2{
+
+     background-color: #ffffff !important;
+    width: 59% !important;
+    -webkit-box-flex: 1 !important;
+    -webkit-flex: 1 1 auto !important;
+    -ms-flex: 1 1 auto !important;
+    flex: 1 1 auto !important;
+    /* max-height: 40%; */
+    height: 20% !important;
+    padding: 1.25em !important;
+    margin-left: 30% !important;
+}
 .form_margin{
     margin-top:13%;
 }
@@ -3234,7 +3252,7 @@ margin-top:-1%;
 }
 
 .form-control.status{
-    width: 149%;
+    width: 141%;
     margin-left: 1%;
 }
 .col-md-4.control-label.comment{
@@ -3248,27 +3266,27 @@ margin-top:-1%;
  
 /* add new partner the css for the class which is inside the js*/
 .control-label.name{
-		margin-left:212%;
+		margin-left:262%;
 }
 
 /*date input field*/
 .col-10.col{
-    width:62%;
+    width:61%;
     margin-left:7.6%;
     margin-top:-6%;
 }
 .form-control.type_of_work
 {
     margin-left:9%;
-    width:149%
+    width:140%
 }
 
 .form-control.input-md.comment{
-    width: 248%;
+    width: 230%;
     margin-left: -3%;
 }
 .control-label.designation{
-	margin-left:159%;
+	margin-left:202%;
 }
 .partner_name {
     margin-top: -35%;
@@ -3444,20 +3462,20 @@ input#partner_names[].form-control.input-md.newentry.partner_names{
 }
 /*input field for telephone*/
 #telephone_upload {
-    width: 59%;
-    margin-left: 8%;
+    width: 37%;
+    margin-left: 10%;
     position: absolute;
     margin-top: 1%;
 }
 
 #bank_upload{
-    width: 55%;
-    margin-left: 3%;
+    width: 37%;
+    margin-left: 1%;
     margin-top: 0%;
     position: absolute;
 }
 .partner_designation {
-    margin-left: 283%;
+    margin-left: 311%;
     margin-top: -20%;
     width: 143%;
 }
@@ -3522,6 +3540,16 @@ margin-top:-1%;
     margin-top:-1%;
     margin-left:-3%
 }
+
+/*Dynamic Add Partners of new.php Organzation */
+.form-control.input-md.newentry.partner_names{
+    width: 80% !important;
+    margin-left: 16% !important;
+}
+
+
+
+
 }
 
 
