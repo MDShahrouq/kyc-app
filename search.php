@@ -43,7 +43,6 @@ if($_SESSION['login_kyc_app'] == 1){
 
 <body style="background-color:#E8E8E8; overflow: hidden;">
 
-
 <?php
 
 if($_POST['is_user_delete'] != "" && $_POST['pk_delete'] != ""){
